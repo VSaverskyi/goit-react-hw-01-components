@@ -1,0 +1,24 @@
+.status {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin: auto 0;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}
+
+.avatar {
+  width: 100px;
+}
+
+.name {
+  font-size: 48px;
+  text-align: center;
+  margin: auto 0;
+}
